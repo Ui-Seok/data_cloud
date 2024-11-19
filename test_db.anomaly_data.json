@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "673c256bde7a8cda533afa0e"
+  },
+  "timeline": {
+    "start_frame": 0,
+    "end_frame": 192
+  },
+  "detection_time": "2024-11-19_14-42-59",
+  "anomaly_scores": [
+    0.0030633879359811544,
+    0.003010417800396681,
+    0.00264839013107121,
+    0.0029896306805312634,
+    0.0026977178640663624,
+    0.002939885947853327,
+    0.00256752735003829,
+    0.0029724198393523693,
+    0.0029691350646317005,
+    0.002743456047028303
+  ],
+  "preview_img": "video_data/2024-11-19_14-42-58/0.png",
+  "event_folder": "video_data/2024-11-19_14-42-58",
+  "top_k_class": {
+    "Assault": 30.1,
+    "Vandalism": 28.3,
+    "Falling": 16.8,
+    "Swoon": 0,
+    "Fighting": 0
+  },
+  "video_path": "video_data/2024-11-19_14-42-58/anomaly_clip_0_192.mp4",
+  "plot_path": "video_data/2024-11-19_14-42-58/anomaly_score_0_192.png",
+  "video_name": "anomaly_clip_0_192.mp4",
+  "class_probability_img": "video_data/2024-11-19_14-42-58/class_probabilities_0_192_temporal_analysis.png"
+},
+{
+  "_id": {
+    "$oid": "673c2575de7a8cda533afa0f"
+  },
+  "timeline": {
+    "start_frame": 240,
+    "end_frame": 456
+  },
+  "detection_time": "2024-11-19_14-43-07",
+  "anomaly_scores": [
+    0.002919453661888838,
+    0.00097870291210711,
+    0.0010873859282582998,
+    0.0031731773633509874,
+    0.00322146899998188,
+    0.0007798571605235338,
+    0.003129436168819666,
+    0.0030659285839647055,
+    0.0009963979246094823,
+    0.0011713916901499033
+  ],
+  "preview_img": "video_data/2024-11-19_14-43-06/240.png",
+  "event_folder": "video_data/2024-11-19_14-43-06",
+  "top_k_class": {
+    "Vandalism": 30,
+    "Assault": 29.4,
+    "Falling": 14.8,
+    "Swoon": 0,
+    "Fighting": 0
+  },
+  "video_path": "video_data/2024-11-19_14-43-06/anomaly_clip_240_456.mp4",
+  "plot_path": "video_data/2024-11-19_14-43-06/anomaly_score_240_456.png",
+  "video_name": "anomaly_clip_240_456.mp4",
+  "class_probability_img": "video_data/2024-11-19_14-43-06/class_probabilities_240_456_temporal_analysis.png"
+},
+{
+  "_id": {
+    "$oid": "673c257bde7a8cda533afa10"
+  },
+  "timeline": {
+    "start_frame": 480,
+    "end_frame": 672
+  },
+  "detection_time": "2024-11-19_14-43-15",
+  "anomaly_scores": [
+    0.0010094171157106757,
+    0.001434596604667604,
+    0.0008961124112829566,
+    0.001308780862018466,
+    0.0031153641175478697,
+    0.002657874720171094,
+    0.003398749977350235,
+    0.003508129622787237,
+    0.0032987906597554684,
+    0.0026681709568947554
+  ],
+  "preview_img": "video_data/2024-11-19_14-43-15/480.png",
+  "event_folder": "video_data/2024-11-19_14-43-15",
+  "top_k_class": {
+    "Vandalism": 29.5,
+    "Assault": 29,
+    "Falling": 13.7,
+    "Swoon": 0,
+    "Fighting": 0
+  },
+  "video_path": "video_data/2024-11-19_14-43-15/anomaly_clip_480_672.mp4",
+  "plot_path": "video_data/2024-11-19_14-43-15/anomaly_score_480_672.png",
+  "video_name": "anomaly_clip_480_672.mp4",
+  "class_probability_img": "video_data/2024-11-19_14-43-15/class_probabilities_480_672_temporal_analysis.png"
+},
+{
+  "_id": {
+    "$oid": "673c2584de7a8cda533afa11"
+  },
+  "timeline": {
+    "start_frame": 720,
+    "end_frame": 936
+  },
+  "detection_time": "2024-11-19_14-43-24",
+  "anomaly_scores": [
+    0.002979447366669774,
+    0.0031863159965723753,
+    0.0012749922461807728,
+    0.002678150311112404,
+    0.0030019572004675865,
+    0.002726662438362837,
+    0.002799076260998845,
+    0.0033014100044965744,
+    0.0029487465508282185,
+    0.003192133968695998
+  ],
+  "preview_img": "video_data/2024-11-19_14-43-23/720.png",
+  "event_folder": "video_data/2024-11-19_14-43-23",
+  "top_k_class": {
+    "Assault": 29.9,
+    "Vandalism": 27.1,
+    "Falling": 17.4,
+    "Swoon": 0,
+    "Fighting": 0
+  },
+  "video_path": "video_data/2024-11-19_14-43-23/anomaly_clip_720_936.mp4",
+  "plot_path": "video_data/2024-11-19_14-43-23/anomaly_score_720_936.png",
+  "video_name": "anomaly_clip_720_936.mp4",
+  "class_probability_img": "video_data/2024-11-19_14-43-23/class_probabilities_720_936_temporal_analysis.png"
+}]
